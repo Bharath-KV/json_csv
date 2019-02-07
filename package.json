@@ -1,0 +1,18 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "Get's data converts it to CSV and saves in file system and Get's a CSV and saves it to file system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BK",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1",
+    "jsonexport": "^2.4.1",
+    "multiparty": "^4.2.1"
+  }
+}
