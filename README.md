@@ -1,5 +1,5 @@
 # json_csv
-Frameworks/tools used: Node.js + Hapi.js + multiparty + json2csv
+Frameworks/tools used: Node.js + Hapi.js + Joi.js + multiparty + json2csv
 
 It's a simple project which accepts array of objects and saves it into a csv file and stores the same into file system.
 Also it accepts a csv file and saves it into the file system.
